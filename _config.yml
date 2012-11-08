@@ -4,17 +4,17 @@ pygments: true
 markdown: maruku
 permalink: pretty
 toc:
-    - title: Getting Started
+    - title: Primeiros Passos
       children:
-        - title: Installation
+        - title: Instalação
           url: getting-started-install
-        - title: System Requirements
+        - title: Requisitos de Sistema
           url: getting-started-requirements
-        - title: Hello World
+        - title: Olá Mundo
           url: getting-started-hello-world
-    - title: Configuration
+    - title: Configurações
       children:
-        - title: Overview
+        - title: Visão Geral
           url: configure-overview
         - title: Application Settings
           url: configure-settings

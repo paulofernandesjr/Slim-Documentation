@@ -1,8 +1,8 @@
 ---
-title: Requirements
+title: Requisitos de Sistema
 layout: default
 ---
 
 * PHP >= 5.3.0
 
-The `mcrypt` extension is required *only* if you use encrypted cookies.
+A extensão `mcrypt` é necessária *somente* se você utilizar cookies criptografados.

@@ -1,18 +1,18 @@
 ---
-title: Hello World
+title: Olá Mundo
 layout: default
 ---
 
-Instantiate a Slim application:
+Instancie o Slim Framework:
 
     $app = new \Slim\Slim();
 
-Define a HTTP GET route:
+Defina uma rota do tipo HTTP GET:
 
     $app->get('/hello/:name', function ($name) {
         echo "Hello, $name";
     });
 
-Run the Slim application:
+Execute a aplicação:
 
     $app->run();
